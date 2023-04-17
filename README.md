@@ -20,9 +20,6 @@ Check out my collection of HTML and CSS projects! They are all carefully made wi
 
 ![tble](https://user-images.githubusercontent.com/109421054/230759296-e6de8ca6-50f4-469f-948f-5a8411d8b4cf.PNG)
 
-# REGISTRATION FORM
-
-![reg](https://user-images.githubusercontent.com/109421054/230759343-6ce55d02-b7c4-4f5f-9da3-a1d44e4c1ffd.PNG)
 
 # GRID ASSIGNMENT
 
